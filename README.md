@@ -1,6 +1,6 @@
 ## Hi, 👋 I'm Jonit Joseph.
 
-- I'm a Blockchain & Full Stack Developer
+- 👨‍💻 I'm a Blockchain & Full Stack Developer
 - 👀 I’m interested in building innovative solutions
 - 🌱 I’m currently learning Hyperledger Fabric
 - 📫 How to reach me : 
