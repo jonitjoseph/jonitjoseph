@@ -7,7 +7,7 @@
 
 🌐 [Website][website] **|** 
 👔 [Linkedin][linkedin] **|**
-🐦 [Twitter][twitter] **|**
+🐦 [Twitter][twitter] 
 
 [website]: https://jonitjoseph.dev
 [twitter]: https://twitter.com/jonitjoseph
